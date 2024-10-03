@@ -1,0 +1,18 @@
+        HHHHHHH HHHHHH
+       HH     HHH    H
+       H  HHH   H BB HHH
+       H H W H  H  B   H
+       H HBBBH HHHHBHHDHHH
+       HH       B   B HDDDH
+       H  HBHBHH  H   HDDDH
+       H H  B  H H HH HDDDH
+       H H     H H    HDDDH
+       H  HBBBHH HB   HDDDH
+       HH         BBHHHDDDH
+        H HBHBHH HB    DDDH
+        H H    H H B   DDDH
+        H H    H H  HHHHHHH
+        H HBBBHH H  H
+        H        HHHH
+        HHH    HHH
+          HHHHHH

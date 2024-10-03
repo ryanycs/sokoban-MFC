@@ -1,0 +1,15 @@
+    HHHHHH
+    H    H
+  HHH HH H
+HHH  B  BHHHHHHH
+H   B B  H  DDDH
+H HB H  BH  DDDH
+H H  HB     DDDH
+H HB H   H  DDDH
+H H BH BBH  DDDH
+H HW HB  HHHHHHH
+H H B B HH
+H H  B  H
+H HHH HHH
+H     H
+HHHHHHH
